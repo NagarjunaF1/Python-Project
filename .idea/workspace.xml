@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40923a73-2c23-41b6-960e-021d44bdad96" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Getting Started to understand Data.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/Customer_Churn_Modelling.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/Data - Multiple Worksheets.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/Data - Single Worksheet.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/IMDB-Dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/IMDB-Movie-Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/Restaurant - Customers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/Restaurant - Foods.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/Restaurant - Week 1 Sales.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/Restaurant - Week 1 Satisfaction.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/Restaurant - Week 2 Sales.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/amazon_reviews_for_products.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/bigmac.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/boston.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/chicago.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/ecommerce.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/employees.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/foods.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/fortune1000.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/google_stock_price.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/houseprice.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/jamesbond.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/moviereviews.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/nba.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/netflix_titles.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/pokemon.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/quarters.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/revenue.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/salesmen.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/spam.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/stackoverflow.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/titanic.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/twitter_sentiment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/All-CSV-ML-Data-Files-Download-master/worldstats.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/games.csv.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/DataSets/ramen-ratings.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/References/git-cheat-sheet-education.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/TextFile1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/TextFile2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/Train in pandas.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/Train1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/customers-100.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/dict_to_csv.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2hAveAQW0HVHs5RjNE2rAv6Zpdk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Getting Started to understand Data" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40923a73-2c23-41b6-960e-021d44bdad96" name="Changes" comment="" />
+      <created>1717049789113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717049789113</updated>
+      <workItem from="1717049852143" duration="1734000" />
+      <workItem from="1717054466024" duration="12534000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
